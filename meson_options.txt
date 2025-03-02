@@ -1,0 +1,1 @@
+option('cpu', type: 'string', value: 'cortex-a72', description: 'The cpu option to pass to qemu')
